@@ -1,0 +1,97 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 250%;
+    margin-left: 2%;
+}
+h2{
+    text-align: center;
+    font-size: 200%;
+}
+h3{
+    font-size: 150%; 
+}
+h5{
+    margin-left: 20%;
+}
+.span-class{
+    color: #FFAD5A;
+}
+#title-div-id{
+    border-left: #FF5959 solid;
+    line-height: 4vw;  
+}
+.focus-div-class{
+    margin-right: 30%;
+}
+.button-class{
+    background-color: #FF5959;
+    text-decoration: none;
+    padding: 1vw 3vw;
+    border-radius: .5vw;
+    color: white;
+    font-size: 100%; 
+}
+.profile-image{
+    width: 20vw;
+    margin-right: 5%;
+}
+.title-section{
+    display: flex;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.illus-class{
+    width: 25%;
+    height: 30%;
+}
+.mission-section-class{
+    display: flex;
+    margin-left: 5%;
+}
+.mission-div-class{
+    border-radius: 1vw;
+    padding: 1%;
+    margin-right: 5%;
+    text-align: justify; 
+}
+#mission-id{
+    background-color: #e2f8fa3f;
+}
+#vision-id{
+    background-color: #fcaeae2f;
+}
+#goals-id{
+    background-color: #FFF4D6;
+}
+.develop-section-class{
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.develop-class{
+    margin-right: 5%;
+    margin-left: 5%;
+    text-align: justify;
+}
+.develop-picture{
+    width: 20vw;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.background-picture{
+    background-image: url(images/shapes/shape-1.png);
+    background-position: center left;
+    background-repeat: no-repeat;
+    background-size: 15vw;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+}
+#footer-id{
+    font-style:italic;
+}
